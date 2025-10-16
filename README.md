@@ -4,11 +4,11 @@
 
 I'm a curious learner and aspiring **Full-Stack Developer**, currently part of **Code for India Foundation — Cohort B25**, where I’m learning to build real-world web applications from the ground up.  
 
-Alongside my coding journey, I’m also a passionate entrepreneur — founder of:  
-🚀 [**functionhall.app**](https://functionhall.app) — a platform simplifying venue discovery and booking  
-📘 [**hifz.online**](https://hifz.online) — helping Islamic teachers connect with students for quality learning.  
+Alongside my coding journey, I’m also a passionate entrepreneur, Founder of:  
+🚀 [**functionhall.app**](https://functionhall.app), a platform simplifying venue discovery and booking  
+📘 [**hifz.online**](https://hifz.online), helping Islamic teachers connect with students for quality learning.  
 
-I love exploring how technology can solve everyday problems and bring ideas to life. I’m still learning, building, and experimenting — one project at a time.  
+I love exploring how technology can solve everyday problems and bring ideas to life. I’m still learning, building, and experimenting. 
 
 💡 *Always open to collaborations, learning opportunities, and meaningful conversations around tech, startups, and design.*  
 
